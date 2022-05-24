@@ -1,0 +1,5 @@
+{
+  "twitch_username": "example_user",
+  "twitch_oauth_token": "oauth:******",
+  "twitch_channel": "example_channel"
+}
