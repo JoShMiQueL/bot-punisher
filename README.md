@@ -4,7 +4,9 @@
 - [Streams Charts](https://streamscharts.com/tools/bots)
 
 # Getting Started
-**Node version needed: >=18.0.0**
+**Requirements:**
+  - ***Node: >=18.0.0***
+---
 1. Execute the following command to install the dependencies:
 ```
 npm install
