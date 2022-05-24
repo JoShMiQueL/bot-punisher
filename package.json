@@ -1,6 +1,7 @@
 {
-  "name": "bot-punisher",
-  "version": "1.0.0",
+  "name": "twitch-bot-punisher",
+  "version": "1.0.1",
+  "description": "This script bans users suspected of being bots from a Twitch channel you own or moderate.",
   "main": "index.js",
   "engines": {
     "node": ">=18.0.0"
@@ -8,7 +9,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["twitch", "bot", "ban", "stream", "chat"],
   "author": "JoShMiQueL",
   "license": "MIT",
   "dependencies": {
